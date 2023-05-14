@@ -1,0 +1,26 @@
+body {
+    /* Color de fondo*/
+    background-color: rgb(233, 213, 201);
+        /* Letras!*/
+    color: rgb(230, 39, 112);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
+
+/* Para agregar clase ponemos un (.) antes del nombre*/
+
+.titulo {
+color: rgb(233, 85, 36);
+}
+
+/* Si no lleva punto, afectas todos los elementos*/
+img{
+    width: 350px;
+    
+}
+.imagen1{
+    height: 250px;
+}
