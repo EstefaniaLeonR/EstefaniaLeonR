@@ -5,7 +5,7 @@ Creada con HTML5 Y CSS3 en el bootcamp de Tecnolochicas Pro
 * [1. Intro](https://github.com/EstefaniaLeonR/KirbyWebPage/blob/main/README.md#intro)
 * [2. ¿Que construi?](https://github.com/EstefaniaLeonR/KirbyWebPage/blob/main/README.md#%EF%B8%8Fque-construi)
 * [3. Objetivos del proyecto](https://github.com/EstefaniaLeonR/KirbyWebPage/blob/main/README.md#objetivo-del-proyecto)
-* [4. ¡Link al demo!](https://github.com/EstefaniaLeonR/KirbyWebPage/edit/main/README.md#link-al-demo)
+* [4. ¡Link al demo!](https://github.com/EstefaniaLeonR/KirbyWebPage/blob/main/README.md#link-al-demo)
 ***
 
 ## 📖Intro
@@ -23,4 +23,4 @@ El proyecto esta enfocado en la construccion de una pagina, especialmente es una
 Aprender a utilizar etiquetas de HTML5 y las propiedades de CSS3 asi como identificar componentes base de un sitio web para analizarlas y replicarlas mediante componentes basicos.
 
 ## 🔗¡Link al demo! 
-Visualiza mi proyecto terminado aqui: [Pagina web] 
+Visualiza mi proyecto terminado aqui: [Pagina web]
