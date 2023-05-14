@@ -23,4 +23,4 @@ El proyecto esta enfocado en la construccion de una pagina, especialmente es una
 Aprender a utilizar etiquetas de HTML5 y las propiedades de CSS3 asi como identificar componentes base de un sitio web para analizarlas y replicarlas mediante componentes basicos.
 
 ## 🔗¡Link al demo! 
-Visualiza mi proyecto terminado aqui: [Pagina web]
+Visualiza mi proyecto terminado aqui: [Pagina web](http://127.0.0.1:5500/index.html)
